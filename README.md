@@ -65,4 +65,4 @@ python main.py
 
 **Thank you for checking out this project\! If you like it, feel free to leave a ⭐.**
 
-**Developed with passion for a safer web by Harutt0** 🚀
+**Developed with passion for a safer web by Harutyun.K1** 🚀
